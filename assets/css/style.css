@@ -53,7 +53,7 @@ body {
 	text-transform: uppercase;
 }
 .player-score {
-	color: #EB4D4D;
+	color: lightblue;
 	font-size: 80px;
 	font-weight: 100;
 	margin-bottom: 130px;
@@ -74,7 +74,7 @@ body {
 	right: 10px;
 }
 .player-current-box {
-	background-color: #EB4D4D;
+	background-color: lightblue;
 	color: #fff;
 	width: 40%;
 	margin: 0 auto;
