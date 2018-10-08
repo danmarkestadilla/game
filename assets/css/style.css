@@ -132,6 +132,10 @@ button:focus {
 .btn-hold {
 	top: 467px;
 }
+h3{
+	text-align: center;
+	margin-top: 10px
+}
 i {
 	color: #EB4D4D;
 	display: inline-block;
